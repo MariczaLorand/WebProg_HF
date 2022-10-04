@@ -1,5 +1,6 @@
 <?php
 
+namespace Cart;
 
 class CartItem
 {

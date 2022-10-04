@@ -1,5 +1,7 @@
 <?php
 
+namespace Cart;
+
 class Cart
 {
     /**
